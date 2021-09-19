@@ -1,0 +1,10 @@
+.h1{
+    justify-content: center;
+}
+#ulTasks{
+    margin-left: 20px;
+}
+#ulTasks li.done{
+    color: #6c757d;
+    text-decoration: line-through;
+}
